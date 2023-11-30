@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+input{
+    text-align: center;
+    max-width: 2.5rem;
+}
+button{
+    font-size: 2rem;
+    margin: 1rem 2rem;
+    min-width: 3rem;
+}
+.App{
+    margin: 5rem 10rem;
+    padding: 5rem 18rem;
+    justify-content: center;
+    align-items: center;
+   
+}
+h1{
+    align-items: center;
+    font-size: 3rem;
+}
+h2{
+    align-items: center;
+    font-size: 2rem;
+    padding-left: 30vh;
+}
